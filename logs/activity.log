@@ -1,0 +1,32 @@
+2022-07-29 09:27:20.404  INFO 18576 --- [Test worker] t.s.s.SpringDemoAppApplicationTests      : Starting SpringDemoAppApplicationTests using Java 11.0.11 on NP-Dev-Johans with PID 18576 (started by Johan.Solms in C:\Users\Johan.Solms\Downloads\spring_demo_app)
+2022-07-29 09:27:20.404  INFO 18576 --- [Test worker] t.s.s.SpringDemoAppApplicationTests      : No active profile set, falling back to 1 default profile: "default"
+2022-07-29 09:27:22.927  INFO 18576 --- [Test worker] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 14 endpoint(s) beneath base path '/actuator'
+2022-07-29 09:27:23.011  INFO 18576 --- [Test worker] t.s.s.SpringDemoAppApplicationTests      : Started SpringDemoAppApplicationTests in 3.034 seconds (JVM running for 4.948)
+2022-07-29 09:27:46.994  INFO 32340 --- [main] t.s.s.SpringDemoAppApplication           : Starting SpringDemoAppApplication using Java 11.0.11 on NP-Dev-Johans with PID 32340 (C:\Users\Johan.Solms\Downloads\spring_demo_app\build\classes\java\main started by Johan.Solms in C:\Users\Johan.Solms\Downloads\spring_demo_app)
+2022-07-29 09:27:46.994  INFO 32340 --- [main] t.s.s.SpringDemoAppApplication           : No active profile set, falling back to 1 default profile: "default"
+2022-07-29 09:27:48.548  INFO 32340 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2022-07-29 09:27:48.564  INFO 32340 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-07-29 09:27:48.564  INFO 32340 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-07-29 09:27:48.686  INFO 32340 --- [main] o.a.c.c.C.[.[localhost].[/spring]        : Initializing Spring embedded WebApplicationContext
+2022-07-29 09:27:48.686  INFO 32340 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1643 ms
+2022-07-29 09:27:49.172  INFO 32340 --- [main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 14 endpoint(s) beneath base path '/actuator'
+2022-07-29 09:27:49.219  INFO 32340 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path '/spring'
+2022-07-29 09:27:49.235  INFO 32340 --- [main] t.s.s.SpringDemoAppApplication           : Started SpringDemoAppApplication in 2.703 seconds (JVM running for 3.125)
+2022-07-29 09:30:31.385  INFO 31356 --- [Test worker] t.s.s.SpringDemoAppApplicationTests      : Starting SpringDemoAppApplicationTests using Java 11.0.11 on NP-Dev-Johans with PID 31356 (started by Johan.Solms in C:\Users\Johan.Solms\Downloads\spring_demo_app)
+2022-07-29 09:30:31.388  INFO 31356 --- [Test worker] t.s.s.SpringDemoAppApplicationTests      : No active profile set, falling back to 1 default profile: "default"
+2022-07-29 09:30:35.459  INFO 31356 --- [Test worker] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 14 endpoint(s) beneath base path '/actuator'
+2022-07-29 09:30:35.530  INFO 31356 --- [Test worker] t.s.s.SpringDemoAppApplicationTests      : Started SpringDemoAppApplicationTests in 4.575 seconds (JVM running for 6.579)
+2022-07-29 09:30:43.630  INFO 27848 --- [main] t.s.s.SpringDemoAppApplication           : Starting SpringDemoAppApplication using Java 11.0.11 on NP-Dev-Johans with PID 27848 (C:\Users\Johan.Solms\Downloads\spring_demo_app\build\classes\java\main started by Johan.Solms in C:\Users\Johan.Solms\Downloads\spring_demo_app)
+2022-07-29 09:30:43.633  INFO 27848 --- [main] t.s.s.SpringDemoAppApplication           : No active profile set, falling back to 1 default profile: "default"
+2022-07-29 09:30:45.209  INFO 27848 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2022-07-29 09:30:45.219  INFO 27848 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-07-29 09:30:45.220  INFO 27848 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-07-29 09:30:45.347  INFO 27848 --- [main] o.a.c.c.C.[.[localhost].[/spring]        : Initializing Spring embedded WebApplicationContext
+2022-07-29 09:30:45.347  INFO 27848 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1671 ms
+2022-07-29 09:30:46.222  INFO 27848 --- [main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 14 endpoint(s) beneath base path '/actuator'
+2022-07-29 09:30:46.270  INFO 27848 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path '/spring'
+2022-07-29 09:30:46.283  INFO 27848 --- [main] t.s.s.SpringDemoAppApplication           : Started SpringDemoAppApplication in 3.092 seconds (JVM running for 3.516)
+2022-07-29 09:31:19.700  INFO 27848 --- [http-nio-8081-exec-3] o.a.c.c.C.[.[localhost].[/spring]        : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-07-29 09:31:19.702  INFO 27848 --- [http-nio-8081-exec-3] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-07-29 09:31:19.703  INFO 27848 --- [http-nio-8081-exec-3] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2022-07-29 09:31:20.195  INFO 27848 --- [http-nio-8081-exec-2] o.springdoc.api.AbstractOpenApiResource  : Init duration for springdoc-openapi is: 123 ms
